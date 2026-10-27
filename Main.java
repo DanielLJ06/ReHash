@@ -69,7 +69,7 @@ public class Main {
 
 
         for (int n = 0; n < 100; n++) {
-            hash.inserir_hashing(random.nextInt(100));
+            hash.inserir_hashing(random.nextInt(100001));
         }
 
       
